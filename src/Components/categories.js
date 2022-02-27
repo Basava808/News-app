@@ -32,7 +32,7 @@ class Category extends React.Component{
             },
             { 
               category:'Tesla',
-              url:'https://newsapi.org/v2/everything?q=tesla&from=2022-01-25&sortBy=publishedAt'
+              url:'https://newsapi.org/v2/everything?q=tesla&sortBy=publishedAt'
             },
           ],
           category:'',
